@@ -1,0 +1,31 @@
+# Java
+server/target/
+server/*.jar
+server/*.war
+*.class
+*.log
+
+# Node
+client/node_modules/
+client/dist/
+client/.hbuilderx/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Uploads (local test images)
+server/uploads/*.png
+server/uploads/*.jpg
+
+# Secrets
+application-prod.yml
+*.pem
+client/unpackage/
+client/pages/index/index.vue.bak
+client/pages/index/index-test.vue
