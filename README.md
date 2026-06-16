@@ -16,9 +16,9 @@
 
 ## 🖼️ 界面预览
 
-| 点餐首页 | 菜品详情 | 订单列表 | 数据看板 |
-|---------|---------|---------|---------|
-| 左分类右菜品网格 | 大图+描述+快捷加减 | 筛选+通知+反馈 | 排行+主厨+推荐 |
+| 点餐首页 | 菜品详情 | 订单列表 | 数据看板 | 个人中心 |
+|---------|---------|---------|---------|---------|
+| ![首页](docs/screenshots/home.png) | ![详情](docs/screenshots/detail.png) | ![订单](docs/screenshots/orders.png) | ![看板](docs/screenshots/dashboard.png) | ![我的](docs/screenshots/profile.png) |
 
 ## 🛠️ 技术栈
 
